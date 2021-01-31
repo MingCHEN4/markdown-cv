@@ -1,28 +1,28 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ming CHEN's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ming CHEN
+Ph.D | Genetics research in multiple sclerosis.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mingchen720@gmail.com">E-mail</a>
+| <a href="https://www.researchgate.net/profile/Ming_Chen173/research">My Research Gate</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at Menzies Institute for Medical Research.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Genetics, Immunology; Multiple sclerosis, Rheumatoid arthritis; HLA.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Next-generation Sequencing, Single-cell sequencing, Gene-editing.
 
 
 ## Education
